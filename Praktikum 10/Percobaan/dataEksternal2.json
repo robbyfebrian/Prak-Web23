@@ -1,0 +1,15 @@
+{
+    "name": "petanikode",
+    "url": "https://www.petanikode.com",
+    "rank": 0.1,
+    "isActive": true,
+    "kelas": ["javascipt pemula",0, "javascipt menengah", "javascipt akhir"],
+    "socialmedia": {
+        "facebook": "petanikode",
+        "twitter": "petanikode",
+        "instagram": "petanikode",
+        "youtube": "petanikode",
+        "github": "petanikode"
+    },
+    "penanggungjawab": null
+}

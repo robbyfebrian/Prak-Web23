@@ -1,0 +1,134 @@
+{
+  "mataKuliah": [
+    {
+      "nomer": 1,
+      "nama": "Praktikum Sistem Basis Data",
+      "kelas": "E",
+      "jadwal": "11-12",
+      "dosen": "Widi Widayat, S.Kom., M.Eng.",
+      "materi": [
+        "Sistem Basis Data",
+        "SQL",
+        "Database Design",
+        "Query Optimization"
+      ]
+    },
+    {
+      "nomer": 2,
+      "nama": "Sistem Basis Data",
+      "kelas": "D",
+      "jadwal": "1-3",
+      "dosen": "Dimas Aryo Anggoro, S.Kom., M.Sc.",
+      "materi": [
+        "Sistem Basis Data",
+        "SQL",
+        "Database Design",
+        "Query Optimization"
+      ]
+    },
+    {
+      "nomer": 3,
+      "nama": "Praktikum Jaringan Komputer",
+      "kelas": "J",
+      "jadwal": "11-12",
+      "dosen": "Ihsan Cahyo Utomo, M.Kom",
+      "materi": [
+        "Jaringan Komputer",
+        "TCP/IP",
+        "Routing Protocols",
+        "Network Security"
+      ]
+    },
+    {
+      "nomer": 4,
+      "nama": "Jaringan Komputer",
+      "kelas": "E",
+      "jadwal": "11-12",
+      "dosen": "Fatah Yasin Al Irsyadi, S.T., M.T",
+      "materi": [
+        "Jaringan Komputer",
+        "TCP/IP",
+        "Routing Protocols",
+        "Network Security"
+      ]
+    },
+    {
+      "nomer": 5,
+      "nama": "Bahasa Indonesia",
+      "kelas": "E",
+      "jadwal": "1-3",
+      "dosen": "Lusiana Pujiastuti, S.Pd., M.Pd",
+      "materi": [
+        "Bahasa Indonesia",
+        "Tata Bahasa",
+        "Kebahasaan",
+        "Kesusastraan"
+      ]
+    },
+    {
+      "nomer": 6,
+      "nama": "Kewarganegaraan",
+      "kelas": "E",
+      "jadwal": "4-6",
+      "dosen": "Haryono Yuwono, Drs. M.Pd",
+      "materi": [
+        "Kewarganegaraan",
+        "Pancasila",
+        "UUD 1945",
+        "Sejarah Perjuangan Bangsa"
+      ]
+    },
+    {
+      "nomer": 7,
+      "nama": "Algoritma Struktur Data",
+      "kelas": "E",
+      "jadwal": "7-8",
+      "dosen": "Husni Thamrin, M.T., Ph.D",
+      "materi": [
+        "Algoritma",
+        "Struktur Data",
+        "Pemrograman Dinamis",
+        "Graf dan Pohon"
+      ]
+    },
+    {
+      "nomer": 8,
+      "nama": "Rekayasa Perangkat Lunak",
+      "kelas": "E",
+      "jadwal": "9-10",
+      "dosen": "Widi Widayat, S.Kom., M.Eng.",
+      "materi": [
+        "Rekayasa Perangkat Lunak",
+        "Software Development Life Cycle",
+        "Agile Methodology",
+        "Software Testing"
+      ]
+    },
+    {
+      "nomer": 9,
+      "nama": "Kemuhammadiyahan",
+      "kelas": "E",
+      "jadwal": "11-12",
+      "dosen": "Yeti Dahliana, S.Si., S.Th.I., M.Ag",
+      "materi": [
+        "Kemuhammadiyahan",
+        "Ajaran Islam",
+        "Sejarah Kemuhammadiyahan",
+        "Kaidah-Kaidah Agama"
+      ]
+    },
+    {
+      "nomer": 10,
+      "nama": "Praktikum Algoritma Struktur Data",
+      "kelas": "E",
+      "jadwal": "11-12",
+      "dosen": "Dimas Aryo Anggoro, S.Kom., M.Sc.",
+      "materi": [
+        "Algoritma",
+        "Struktur Data",
+        "Pemrograman Dinamis",
+        "Graf dan Pohon"
+      ]
+    }
+  ]
+}
